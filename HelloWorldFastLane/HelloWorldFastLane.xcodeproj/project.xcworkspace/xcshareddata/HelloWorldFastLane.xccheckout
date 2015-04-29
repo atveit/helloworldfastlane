@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>D5EEACB1-8ABA-4A11-9115-4FA0623C04AC</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>HelloWorldFastLane</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>34B94F6BDDACC2AD56E26C2BC971562A3EB4F461</key>
 		<string>github.com:atveit/helloworldfastlane.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HelloWorldFastLane/HelloWorldFastLane.xcodeproj/project.xcworkspace</string>
+	<string>HelloWorldFastLane/HelloWorldFastLane.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>34B94F6BDDACC2AD56E26C2BC971562A3EB4F461</key>
