@@ -52,6 +52,11 @@ class HelloWorldFastLaneTests: XCTestCase {
         // This is an example of a functional test case.
         XCTAssert(true, "Pass")
     }
+    
+    func testExample7() {
+        // This is an example of a functional test case.
+        XCTAssert(true, "Pass")
+    }
 
     
     func testPerformanceExample() {
